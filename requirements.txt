@@ -1,0 +1,5 @@
+nltk
+vaderSentiment
+scipy
+numpy
+scikit-learn
